@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/tolgaek/thinkful-auth-151006/issues"
   },
-  "homepage": "https://github.com/tolgaek/thinkful-auth-151006#readme"
+  "homepage": "https://github.com/tolgaek/thinkful-auth-151006#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "express-session": "^1.11.3",
+    "passport": "^0.3.0",
+    "passport-google-oauth": "^0.2.0"
+  }
 }
